@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(247, 239, 128);
+}
+
+div {
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+
+.title {
+    font-family: "Brush Script MT", Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    border: 2px dotted rgb(82, 29, 29);
+    border-radius: 12px;
+    padding: 8px;
+}
+
+p {
+    font-weight: bold;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+}

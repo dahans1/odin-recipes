@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(247, 239, 128);
+}
+
+.title {
+    font-family: "Copperplate", "Copperplate Gothic Light", fantasy;
+    background-color: salmon;
+    border-radius: 8px;
+    border: 2px solid black;
+    text-align: center;
+}
